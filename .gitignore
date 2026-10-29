@@ -1,0 +1,9 @@
+# Secrets - never commit your Pinecone API key
+.env
+pinecone.txt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
